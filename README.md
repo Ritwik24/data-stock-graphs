@@ -1,2 +1,2 @@
-# data-stock-graphs
+# Statistical Graphing Simulator
 A Data Visualization menu-driven project which graphically visualizes the given data through various forms like lively animated graph output from text files, graphs like line graph, bar graph, 2 bar graph, horizontal bar graph, histogram, pie chart, scatter plot, contour plot, 3D surface plot, graphs of complex mathematical equations or graphs of share market prices within the given time period for deep and detailed financial analysis!
